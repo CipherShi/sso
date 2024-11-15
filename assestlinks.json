@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.thisdesignstudio.esports_africa",
+      "sha256_cert_fingerprints":
+      ["e8:dd:58:32:7f:24:5f:5e:89:ba:62:57:56:ff:9c:8d:de:6c:c1:08:c4:72:e8:ee:a2:9f:e8:f9:78:f3:f3:f5"]
+    }
+  }]
